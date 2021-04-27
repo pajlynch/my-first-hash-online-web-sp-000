@@ -24,7 +24,6 @@ def retrieval
                  }
 
 shipping_manifest["oil paintings"]
-
 end
 
 def adding
@@ -39,5 +38,4 @@ shipping_manifest["muskets"] = 2
 shipping_manifest["gun powder"] = 4
 
 puts shipping_manifest
-
 end
