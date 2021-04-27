@@ -40,5 +40,4 @@ shipping_manifest["gun powder"] = 4
 
 puts shipping_manifest
 
-
 end
