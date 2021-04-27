@@ -1,6 +1,9 @@
 def my_hash
-  my_hash = {"name" => "Dwayne Johnson", "stage_name" => "The Rock", "weight" => "a lot"}
-
+  my_hash = {
+    "name" => "Dwayne Johnson",
+    "stage_name" => "The Rock",
+    "weight" => "a lot"
+  }
 end
 
 
