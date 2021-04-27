@@ -1,6 +1,7 @@
 def my_hash
   my_hash = {
     name => "Patrick"
+    dob => "July 26, 1983"
     age => "37"
     occupation => "self-employed"
   }
