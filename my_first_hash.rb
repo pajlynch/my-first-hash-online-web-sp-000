@@ -5,7 +5,6 @@ def my_hash
     age => "37"
     occupation => "self-employed"
   }
-
 end
 
 
