@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {  
+  my_hash = {
     "name" => "Patrick Lynch",
     "age" => 37,
     "weight" => 160,
@@ -14,7 +14,6 @@ def shipping_manifest
     "porcelain vases" => 2,
     "oil paintings" => 3
   }
-
 end
 
 def retrieval
